@@ -35,7 +35,7 @@ Maîtriser le cycle complet de création d'agents IA : diagnostiquer les opportu
 | **RGPD** | Contractuel | Contractuel | Natif ✅ | Variable |
 | **Meilleur pour** | Polyvalence, code | Textes longs | Français, souverain | Perso, recherche |
 
-**Recommandation CRPDL :** Mistral Large par défaut (souveraineté), Claude 3 pour textes complexes, GPT-4 pour code technique
+**Recommandation :** Mistral Large par défaut (souveraineté), Claude 3 pour textes complexes, GPT-4 pour code technique
 
 ## Prompts Système - Structure en 7 Blocs
 
@@ -46,7 +46,7 @@ Maîtriser le cycle complet de création d'agents IA : diagnostiquer les opportu
 3. **Comportement Attendu :** Règles TOUJOURS respectées (vérifications, structure, sources)
 4. **Contraintes & Limites :** Interdictions JAMAIS (inventer données, avis personnel, confidentialité)
 5. **Format de Sortie :** Structure standardisée des réponses (synthèse, détail, recommandations)
-6. **Règles Métier CRPDL :** Contexte collectivité, terminologie, seuils d'alerte spécifiques
+6. **Règles Métier :** Contexte organisation, terminologie, seuils d'alerte spécifiques
 7. **Gestion Cas Limites :** Comportements par défaut si données incomplètes ou situations ambiguës
 
 **Exemple Agent Analyse Budget :** Analyste budgétaire senior 15 ans d'expérience, style pédagogique, vérifie cohérence montants, format Synthèse/Détail/Recommandations, référence M57, seuil alerte >5%
@@ -73,9 +73,9 @@ Maîtriser le cycle complet de création d'agents IA : diagnostiquer les opportu
 4. **Données souveraines ?** Swiftask/LigerIA = France ✅ | ChatGPT = USA ❌ (Cloud Act)
 5. **Documentation complète ?** Notice utilisateur, limites, procédure recours, contact DPO
 
-**Règle d'Or CRPDL :** "Un agent IA propose, l'humain dispose" - Toute décision impactant une personne (RH, droits, budget) doit être validée par un humain responsable.
+**Règle d'Or :** "Un agent IA propose, l'humain dispose" - Toute décision impactant une personne (RH, droits, budget) doit être validée par un humain responsable.
 
-**Contact DPO :** dpo@paysdelaloire.fr
+**Contact DPO :** dpo@email.com
 
 ## SLM : Small Language Models - IA Sobre 🌱
 
@@ -91,7 +91,7 @@ Maîtriser le cycle complet de création d'agents IA : diagnostiquer les opportu
 **Cas Idéaux SLM :** Correction orthographique, catégorisation emails, extraction données, résumés courts, reformulation simple
 **Cas LLM Classique :** Analyse complexe, créativité, multi-langues, raisonnement stratégique
 
-**Exemple CRPDL :** 500 emails/jour catégorisés - GPT-4 : 300€/mois, 2.5T CO2/an | SLM : 60€/mois (-80%), 0.25T CO2/an (-90%)
+**Exemple :** 500 emails/jour catégorisés - GPT-4 : 300€/mois, 2.5T CO2/an | SLM : 60€/mois (-80%), 0.25T CO2/an (-90%)
 
 **Recommandation :** "Commencez par SLM, escaladez vers LLM si qualité insuffisante"
 
@@ -164,9 +164,9 @@ Maîtriser le cycle complet de création d'agents IA : diagnostiquer les opportu
 
 ## Support & Ressources
 
-**Référent IA CRPDL :** referent-ia@paysdelaloire.fr  
-**DPO (Conformité RGPD) :** dpo@paysdelaloire.fr  
-**Conformité IA Act :** conformite-ia@paysdelaloire.fr  
+**Référent IA :** referent-ia@email.com  
+**DPO (Conformité RGPD) :** dpo@email.com  
+**Conformité IA Act :** conformite-ia@email.com  
 **Communauté :** Canal Teams "Créateurs Agents IA"  
 **Coaching :** 2h avec expert disponibles  
 **Ressources :** Guide Architecte IA (40 pages), 20 templates agents, bibliothèque prompts système

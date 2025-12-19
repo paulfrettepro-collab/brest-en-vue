@@ -4,15 +4,15 @@
 
 ## Objectif de la formation
 
-Maîtriser les techniques de prompting avancées (One-Shot, Few-Shot, Multi-Shot), découvrir et utiliser les 6 agents IA CRPDL déjà déployés (LigerIA, Reformulation, Traduction, Recherche Web, SWOT, Orthographe), créer votre bibliothèque de 10 prompts métier optimisés, et produire un portfolio personnel d'usages IA opérationnel.
+Maîtriser les techniques de prompting avancées (One-Shot, Few-Shot, Multi-Shot), découvrir et utiliser les 6 agents IA déjà déployés (LigerIA, Reformulation, Traduction, Recherche Web, SWOT, Orthographe), créer votre bibliothèque de 10 prompts métier optimisés, et produire un portfolio personnel d'usages IA opérationnel.
 
 ## Programme
 
-**Jour 1 (9h-17h) - Techniques et Découverte :** Quiz diagnostic | Techniques prompting avancées (One-Shot, Few-Shot, Multi-Shot, CoT, Role) | Navigation Swiftask approfondie | Insertion fichiers (PDF/Word/Excel) | Découverte approfondie 6 agents IA CRPDL : LigerIA, Reformulation, Traduction, Recherche Web, SWOT, Orthographe | Workflows automatisés | Utilisation responsable (recherche web vs IA, sécurité, RGPD)
+**Jour 1 (9h-17h) - Techniques et Découverte :** Quiz diagnostic | Techniques prompting avancées (One-Shot, Few-Shot, Multi-Shot, CoT, Role) | Navigation Swiftask approfondie | Insertion fichiers (PDF/Word/Excel) | Découverte approfondie 6 agents IA : LigerIA, Reformulation, Traduction, Recherche Web, SWOT, Orthographe | Workflows automatisés | Utilisation responsable (recherche web vs IA, sécurité, RGPD)
 
 **Jour 2 (9h-17h) - Ateliers Métiers Intensifs :** Quiz révision | Ateliers métiers par groupe (3h - 4 exercices pratiques) : Assistantes (emails, planning, CR, PDF) | Managers (rapports, SWOT, feedback, KPI) | Gestionnaires (conformité, traduction, veille, contrats) | Création portfolio personnel (5 prompts + 5 agents) | Challenges inter-groupes | Partage best practices | Badge personnalisé avec IA
 
-## Techniques de prompting + Agents IA CRPDL
+## Techniques de prompting + Agents IA
 
 **Techniques avancées :**
 
@@ -22,7 +22,7 @@ Maîtriser les techniques de prompting avancées (One-Shot, Few-Shot, Multi-Shot
 | Few-Shot | 2-3 exemples pour pattern | "Exemples 1, 2, 3 → Fais pareil" |
 | Multi-Shot | 5+ exemples pour précision | "Voici 5 cas → Généralise" |
 
-**6 Agents IA CRPDL disponibles :**
+**6 Agents IA disponibles :**
 
 | Agent | Usage principal | Adoption |
 |-------|----------------|----------|
@@ -62,7 +62,7 @@ Maîtriser les techniques de prompting avancées (One-Shot, Few-Shot, Multi-Shot
 
 ## Portfolio : 5 prompts + 5 usages agents
 
-Créez votre bibliothèque mixte (techniques prompting + agents CRPDL) :
+Créez votre bibliothèque mixte (techniques prompting + agents IA) :
 
 **5 prompts avancés :** Résumé rapport (Few-Shot) | Email diplomatique (One-Shot) | Analyse budgets (Multi-Shot) | CR réunion (Chain-of-Thought) | Brief communication (Role Prompting)
 
@@ -78,7 +78,7 @@ Documentez dans fichier Word : titre, contexte métier, template réutilisable, 
 - Quiz final ≥ 80% (16/20)
 - Badge personnalisé créé avec IA
 
-**Mission 1 mois :** Utiliser portfolio quotidiennement (3 agents minimum/semaine), manipuler 5 agents CRPDL régulièrement, former 2 collègues, économiser 3h/semaine minimum, publier 1 success story sur Teams "Mur des Usages IA".
+**Mission 1 mois :** Utiliser portfolio quotidiennement (3 agents minimum/semaine), manipuler 5 agents IA régulièrement, former 2 collègues, économiser 3h/semaine minimum, publier 1 success story sur Teams "Mur des Usages IA".
 
 ## Mémo optimisation
 
@@ -89,6 +89,6 @@ Documentez dans fichier Word : titre, contexte métier, template réutilisable, 
 
 ## Support
 
-**Coaching :** 1h individuel avec formateur | **Email :** pratique-ia@crpdl.fr | **Teams :** "IA Pratique Métier" | **Ressources :** Bibliothèque 200+ prompts métiers
+**Coaching :** 1h individuel avec formateur | **Email :** pratique-ia@email.com | **Teams :** "IA Pratique Métier" | **Ressources :** Bibliothèque 200+ prompts métiers
 
 **Niveau 3 accessible dans 6 mois après maîtrise autonome**
